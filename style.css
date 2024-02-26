@@ -1,3 +1,10 @@
 div{
     color: blue;
+    background-color: blueviolet;
+    width: 100%;
 }
+.kontener{
+    display: flex;
+    justify-content: flex-start;
+}
+img{max-width: 100%;}
