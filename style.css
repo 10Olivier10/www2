@@ -1,10 +1,14 @@
 div{
-    color: blue;
+    color:white;
     background-color: blueviolet;
     width: 100%;
+    text-align: center;
+    border: solid 1px;
 }
 .kontener{
     display: flex;
     justify-content: flex-start;
+    background-color: aquamarine;
+    padding: 10px;
 }
 img{max-width: 100%;}
